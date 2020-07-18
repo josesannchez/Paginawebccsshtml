@@ -1,0 +1,68 @@
+div{
+  background-color: #A9A9F5;
+  border-left:50px; 
+  text-decoration-color: #070719;
+}
+input{
+  height:auto;
+}
+label{
+  color:#000000;
+ font-size: 18px;
+}
+table{
+    background-color:rgb(0, 191, 255);
+
+  text-decoration-color:#070719; 
+}
+tr{
+  border-color: #8181F7;
+  background-color: #8181F7;
+
+}
+footer{
+background-color:rgb(0, 191, 255);
+padding: 20px;
+text-align: center;
+margin-top: 20px;
+}
+body{
+  background-image:url("C:/Users/daniel/Desktop/Evidencia web2/Bicicleta Tour/Imagenes/bi.jpg");
+  background-position: center center;   
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+section{
+background-color:rgb(235, 245, 251 );
+padding: 10px;
+height: auto;
+text-align: left;
+text-decoration-color: 
+margin-top: 20px;
+}
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 8px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 400px) {
+.topnav a {
+    float: none;
+    width: 80%;
+  }
+}

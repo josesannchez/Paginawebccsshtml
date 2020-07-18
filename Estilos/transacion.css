@@ -1,0 +1,70 @@
+body {
+  background-image: url("C:/Users/daniel/Desktop/Evidencia web2/Bicicleta Tour/Imagenes/Sol.jpg");
+  background-position: center center;   
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:rgb(235, 245, 251 );
+}
+input{
+ background-color:rgb(235, 245, 251 );
+  padding: 0.7em 0.5em;
+  border-radius: 4px;
+  border: none;
+  text-decoration-color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.container{
+  background-color:rgb(235, 245, 251 );
+  width: 1000px;
+  margin: center;
+  border-style: center;
+}
+
+
+/* Fake image */
+.fakeimg {
+  min-height:100px;
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+  background-image: url("C:/Users/daniel/Desktop/Evidencia web2/Bicicleta Tour/Imagenes/bi.jpg");
+
+}
+
+/* Add a card effect for articles */
+.card {
+background-color:rgb(235, 245, 251 );
+padding: 20px;
+border-radius:8px
+border-style: center;
+margin: 10px;
+}
+
+
+footer{
+background-color:rgb(0, 191, 255);
+padding: 20px;
+text-align: center;
+margin-top: 20px;
+}
+
+
+
+button{
+  border-radius: 4px;
+  border: none;
+  background-color:#CEE3F6;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
